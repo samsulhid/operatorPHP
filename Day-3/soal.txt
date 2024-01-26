@@ -1,0 +1,6 @@
+1. Bank tempat andi menabung memeberikan bunga sebesar 5% ketika total tabungan lebih dari Rp. 500.000. JIka dibawah 
+   Rp. 500.000 maka tidak mendapatkan bunga. Jika total tabungan andi RP. 850.000 maka saldo tabungan andi adalah
+2. Ubah pukul 19.00 menjadi pukul 07.00 pm, pukul 08.55 menjadi pukul 08.55 am 
+3. JIka hari ini adalah hari senin maka hari ini upacara, jika hari ini bukan hari senin maka hari ini tidak upacara,
+   (ambil otomatis hari ini)
+4. 

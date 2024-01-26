@@ -1,0 +1,40 @@
+1. predikat terhadap hasil ujian diberikan ktika : Mendapatkan Predikat A jika nilai lebih dari 
+    90, mendapatkan predikat b jika nilai lebih dari 75, selain itu mendapatkan predikat c
+2. Waktu tidur yang baik untuk anak usia 6-12 adalah 10jam, untuk usia 12-18 adalah 8-9 jam. 
+    untuk usia 18-40 adalah 7-8 jam , apabila seseorang berusia 17 tahun berapa waktu tidur yang baik
+3. Apakah angka 9 termasuk kedalam bilangan negatif , bilangan positif, atau bilangan cacah
+4. Disuatu rumah produksi yang memiliki jam kerja 8 jam, jika pegawai bekerja melebih jam kerja 
+    berhak mendapatkan kompensasi berupa Rp 30.000 di jam berikutnya. Jika dani bekerja dari pukul 
+    8 pagi lalu pulabg du pukul 10 malam berapakah kompensasi yang akan di terima dani
+5. Andi lahir di tahun 2004 dan eko lahir 3 tahun sebelum andi dari kedua orang tersebut s
+    iapakah yang lahir di tahun kabisat ? apakah andi atau eko
+6. setiap orang memiliki imt dan kategori imt nya masing
+    berikut kategori IMT : 
+        - < 18.5          : Berat badan kurang
+        - > 18.5 - < 22.9 : Normal 
+        - > 22.9 - < 24.9 : Over
+        - > 25            : Obesitas
+    jika beni memiliki berat badan 44 kg dan tinggi badan 148 cm, termasuk kedalam kategori apa
+7. Meni dirumah makan beni 
+    Nasi goreng : 15000
+    Ayam bakar  : 20000
+    Nasi Kebuli : 25000
+    Jus         : 8000
+    Teh manis   : 3000
+    Es jeruk    : 5000 
+ Rumah beni mengadakan program jumat berkah dengan memberikan diskon sebesar 5% dihari jumat  
+ dan 2% dihari senin. HItunglah harga yang harus dibayar ika Dani membeli 2 Nasi kebuli,  1 ayam
+ bakar, 2 nasi goreng (gunakan hari secara otomatis dari hari ini)
+8. Dani ingin membangun rumah disuatu komplek perumahan dengan panjang tanah 13 meter dan lebar 
+    9 meter. Tetapi sebelum membangun rumah, Dani harus memberikan laporan terlebih dahulu tipe 
+    rumah yang ingin dia buat kepada kontraktor bangunan. Dengan luas tanah yang dia punya, masuk
+    ke kategori manakah rumah dani nantinya. 
+        - Tipe 36 : < 90 m2 
+        - Tipe 45 : < 90 - 96 m2 
+        - Tipe 54 : < 96 - 120 m2 
+        - Tipe 60 : < 120 - 150 m2 
+        - Tipe 70 : < 150 m2 
+9. syarat untuk mendaftar terhadap suatu ikatan dinas haruslah berusia minimal berusia 16 tahun
+10. minimarket eko menjual berbagai kebutuhan, setiap pelanggan yang berbelanja lebih dari 
+    Rp. 100.000 akan mendapatkan voucher potongan harga sebesar Rp. 10.000, jikatotal belanja
+    lebih dari Rp. 150.000 akan mendapatkan voucher Rp. 100.000 dan 1 dus permen kaki 
